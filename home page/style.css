@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+body {
+  overflow-x: hidden;
+}
+a {
+  text-decoration: none;
+}
+a img {
+  width: 3.2rem;
+  height: auto;
+}
+
+li .nav-link,
+.gre {
+  font-weight: 700;
+  color: #009153;
+}
+.gre:hover {
+  color: black;
+}
+.first {
+  background-color: #d4e9e2;
+}
+
+.col-8 h1 {
+  font-size: 3rem;
+}
+.win {
+  background-color: #ad96dc;
+}
+.second {
+  background-color: #006241;
+}
+.three {
+  background-color: #eec0ab;
+}
+.win2 {
+  background-color: #1b3a32;
+}
